@@ -1,0 +1,28 @@
+*{
+    text-align : center;
+    padding: 5px;
+    margin: 5px;
+}
+h1{
+    background-color: rgb(27, 173, 168);
+    color : whitesmoke
+}
+p{
+    color : whitesmoke
+}
+h2{
+    color :rgb(10, 65, 230)
+}
+u{
+    color :rgb(0, 17, 255)
+}
+h3{
+    color:blueviolet
+}
+body {background-color: rgb(0, 0, 0);}
+ol{
+    color: whitesmoke
+}
+#another{
+    color : red
+}
